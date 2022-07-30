@@ -1,0 +1,41 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+}
+
+#main {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+#sub-main {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+#count_no {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.btn {
+    position: inherit;
+    margin-top: 10px;
+    align-content: center;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#increment {
+    background-color: darkred;
+    margin-left: 540px;
+}
+
+#decrement {
+    background-color: darkgreen;
+}
